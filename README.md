@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**mariadalapera/mariadalapera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer with experience in WordPress website development and customization.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- WordPress
+- HTML
+- CSS
+- PHP
+- SQL
+- Git & GitHub
+- UI/UX Design
+
+## Projects
+
+### WordPress Websites
+A collection of WordPress websites developed with custom CSS and responsive design.
+
+## Contact
+
+Email: mariadalapera75@gmail.com
