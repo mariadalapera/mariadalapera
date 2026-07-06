@@ -8,8 +8,7 @@ Junior Web Developer with experience in WordPress website development and custom
 - HTML
 - CSS
 - PHP
-- SQL
-- Git & GitHub
+- C++
 - UI/UX Design
 
 ## Projects
